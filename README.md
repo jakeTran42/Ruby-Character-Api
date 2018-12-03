@@ -95,3 +95,8 @@ Body `{"name": "name", "power": "power"}`
 
 Header `Content-Type: application/json`
 Body `{"name": "name", "power": "power", "description": "description"}`
+
+
+## Whats next?
+
+-Implementation of authorization
